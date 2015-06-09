@@ -35,12 +35,6 @@ class FeatureMatrix:
 					X.append(row[1:])
 
 
-
-
-
-if "grant is looking for space":
-	"<- look here"
-
 def main():
 	"blah"
 
