@@ -8,6 +8,9 @@ else:
 	print >> sys.stderr, "WARNING: $MLCLASS environment variable not set"
 
 
+if "grant is looking for space":
+	"<- look here"
+
 def main():
 	"blah"
 
